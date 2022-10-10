@@ -1,28 +1,36 @@
 # Amazon_Vine_Analysis
 
-Overview of the analysis: Explain the purpose of this analysis.
+## Overview of the analysis:
 
 The purpose of this analysis is to explore the world of Big Data by using Amazon Web Services (AWS) Management Console to store and create a cloud-based relational database service (RDS). We also utilized PGAdmin4 and Google Colab Notebook to work together to analyze Amazon reviews for digital videogames. We were able to extract, transform, and load large quantities of data quickly and efficently and come to conclusions about whether the data may or may not have been inappropiately influenced by paid reviewers. 
 
-Results: Using bulleted lists and images of DataFrames as support, address the following questions:
+## Results:
 
-How many Vine reviews and non-Vine reviews were there?
-Vine reviews: 0
-Non-Vine reviews: 1685
+- How many Vine reviews and non-Vine reviews were there?<br/>
+  Vine reviews: 0<br/>
+  Non-Vine reviews: 1685<br/>
+  
+  <img width="284" alt="Screen Shot 2022-10-09 at 8 43 43 PM" src="https://user-images.githubusercontent.com/107026442/194800458-40879fa7-fe90-456a-8c2a-51f3fdce9432.png">
+  
+  <img width="359" alt="Screen Shot 2022-10-09 at 8 43 35 PM" src="https://user-images.githubusercontent.com/107026442/194800514-73553b5a-0682-4793-8af8-43a253d508d3.png">
+  
 
-How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
-
-Vine reviews: 0
-Non-Vine reviews: 631
-
-
-What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
-
-Percentage of 5-star reviews for paid Vine program was: 0%
-Percentage of 5-star reviews for unpaid Vine program was: 37.448071%
+- How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?<br/>
+  Vine reviews: 0<br/>
+  Non-Vine reviews: 631<br/>
+  
+  <img width="639" alt="Screen Shot 2022-10-09 at 9 47 49 PM" src="https://user-images.githubusercontent.com/107026442/194800683-1ef8e451-6300-431c-8e9f-648df33bd9f6.png">
 
 
-Summary: 
+- What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?<br/>
+  Percentage of 5-star reviews for paid Vine program was: 0%<br/>
+  Percentage of 5-star reviews for unpaid Vine program was: 37.448071%<br/>
+  
+  <img width="677" alt="Screen Shot 2022-10-09 at 9 48 20 PM" src="https://user-images.githubusercontent.com/107026442/194800695-3e874910-b78c-4d5f-91ff-ebf21b39b005.png">
+
+  
+
+## Summary: 
 
 Due to the nature of the category Digital Video Games, I believe it somewhat flawed data. Most people are not buying digital video games on Amazons platform they would more likely go to their Consoles online marketplace. Most reviews do no have more than a few likes and have little to no "helpful" attribute assigned. After some digging, I found that there are overwhelmingly negative reviews for Amazon digital video games because it can be incredibly hard to download, no customer service, sometimes won't download at all. The positive reviews that are provided typically focus on the quality of the games, however even a good review stated something like "great game shouldnt have bought it on Amazon".
 
