@@ -2,7 +2,7 @@
 
 ## Overview of the analysis:
 
-The purpose of this analysis is to explore the world of Big Data by using Amazon Web Services (AWS) Management Console to store and create a cloud-based relational database service (RDS). We also utilized PGAdmin4 and Google Colab Notebook to work together to analyze Amazon reviews for digital videogames. We were able to extract, transform, and load large quantities of data quickly and efficently and come to conclusions about whether the data may or may not have been inappropiately influenced by paid reviewers. 
+The purpose of this analysis is to explore the world of Big Data by using Amazon Web Services (AWS) Management Console to store and create a cloud-based relational database service (RDS). We also utilized PGAdmin4 and Google Colab Notebook to work together to analyze Amazon reviews for Digital Video Games. We were able to extract, transform, and load large quantities of data quickly and efficently and come to conclusions about whether the data may or may not have been inappropiately influenced by paid reviewers. 
 
 ## Results:
 
